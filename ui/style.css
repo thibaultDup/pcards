@@ -1,0 +1,2532 @@
+#abra{
+  display: none;
+}
+#abra .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/abra.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#aerodactyl{
+	display: none;
+  }
+#aerodactyl .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 376px;									
+	height:525px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/aerodactyl.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#alakazam{
+  display: none;
+}
+#alakazam .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/alakazam.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#arbok{
+  display: none;
+}
+#arbok .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/arbok.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#arcanine{
+  display: none;
+}
+#arcanine .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/arcanine.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#articuno{
+  display: none;
+}
+#articuno .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/articuno.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#beedrill{
+  display: none;
+}
+#beedrill .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/beedrill.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#bellsprout{
+  display: none;
+}
+#bellsprout .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/bellsprout.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#blastoise{
+  display: none;
+}
+#blastoise .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/blastoise.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#butterfree{
+  display: none;
+}
+#butterfree .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/butterfree.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#caterpie{
+  display: none;
+}
+#caterpie .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/caterpie.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#chansey{
+  display: none;
+}
+#chansey .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/chansey.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#charizard{
+  display: none;
+}
+#charizard .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/charizard.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#charmander{
+  display: none;
+}
+#charmander .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/charmander.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#charmeleon{
+  display: none;
+}
+#charmeleon .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/charmeleon.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#clefable{
+  display: none;
+}
+#clefable .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/clefable.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#clefairy{
+  display: none;
+}
+#clefairy .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/clefairy.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#cloyster{
+  display: none;
+}
+#cloyster .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/cloyster.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#cubone{
+  display: none;
+}
+#cubone .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/cubone.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#dewgong{
+  display: none;
+}
+#dewgong .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/dewgong.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#diglett{
+  display: none;
+}
+#diglett .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/diglett.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#ditto{
+  display: none;
+}
+#ditto .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/ditto.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#dodrio{
+  display: none;
+}
+#dodrio .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/dodrio.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#doduo{
+  display: none;
+}
+#doduo .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/doduo.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#dragonair{
+  display: none;
+}
+#dragonair .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/dragonair.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#dragonite{
+  display: none;
+}
+#dragonite .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/dragonite.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#dratini{
+  display: none;
+}
+#dratini .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/dratini.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#drowzee{
+  display: none;
+}
+#drowzee .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/drowzee.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#dugtrio{
+  display: none;
+}
+#dugtrio .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/dugtrio.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#eevee{
+  display: none;
+}
+#eevee .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/eevee.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#ekans{
+  display: none;
+}
+#ekans .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/ekans.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#electabuzz{
+  display: none;
+}
+#electabuzz .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/electabuzz.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#electrode{
+  display: none;
+}
+#electrode .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/electrode.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#exeggcute{
+  display: none;
+}
+#exeggcute .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/exeggcute.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#exeggutor{
+  display: none;
+}
+#exeggutor .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/exeggutor.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#farfetchd{
+  display: none;
+}
+#farfetchd .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/farfetchd.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#fearow{
+  display: none;
+}
+#fearow .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/fearow.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#flareon{
+  display: none;
+}
+#flareon .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/flareon.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#gastly{
+  display: none;
+}
+#gastly .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/gastly.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#gengar{
+  display: none;
+}
+#gengar .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/gengar.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#geodude{
+  display: none;
+}
+#geodude .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/geodude.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#gloom{
+  display: none;
+}
+#gloom .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/gloom.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#golbat{
+  display: none;
+}
+#golbat .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/golbat.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#goldeen{
+  display: none;
+}
+#goldeen .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/goldeen.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#golduck{
+  display: none;
+}
+#golduck .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/golduck.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#golem{
+  display: none;
+}
+#golem .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/golem.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#graveler{
+  display: none;
+}
+#graveler .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/graveler.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#grimer{
+  display: none;
+}
+#grimer .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/grimer.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#growlithe{
+  display: none;
+}
+#growlithe .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/growlithe.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#gyarados{
+  display: none;
+}
+#gyarados .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/gyarados.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#haunter{
+  display: none;
+}
+#haunter .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/haunter.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#hitmonchan{
+  display: none;
+}
+#hitmonchan .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/hitmonchan.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#hitmonlee{
+  display: none;
+}
+#hitmonlee .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/hitmonlee.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#horsea{
+  display: none;
+}
+#horsea .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/horsea.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#hypno{
+  display: none;
+}
+#hypno .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/hypno.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#ivysaur{
+  display: none;
+}
+#ivysaur .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/ivysaur.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#jigglypuff{
+  display: none;
+}
+#jigglypuff .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/jigglypuff.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#jolteon{
+  display: none;
+}
+#jolteon .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/jolteon.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#jynx{
+  display: none;
+}
+#jynx .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/jynx.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#kabuto{
+  display: none;
+}
+#kabuto .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/kabuto.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#kabutops{
+  display: none;
+}
+#kabutops .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/kabutops.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#kadabra{
+  display: none;
+}
+#kadabra .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/kadabra.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#kaknua{
+  display: none;
+}
+#kaknua .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/kaknua.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#kangaskhan{
+  display: none;
+}
+#kangaskhan .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/kangaskhan.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#kingler{
+  display: none;
+}
+#kingler .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/kingler.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#koffing{
+  display: none;
+}
+#koffing .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/koffing.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#krabby{
+  display: none;
+}
+#krabby .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/krabby.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#lapras{
+  display: none;
+}
+#lapras .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/lapras.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#lickitung{
+  display: none;
+}
+#lickitung .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/lickitung.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#machamp{
+  display: none;
+}
+#machamp .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/machamp.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#machoke{
+  display: none;
+}
+#machoke .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/machoke.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#machop{
+  display: none;
+}
+#machop .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/machop.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#magikarp{
+  display: none;
+}
+#magikarp .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/magikarp.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#magmar{
+  display: none;
+}
+#magmar .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/magmar.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#magnemite{
+  display: none;
+}
+#magnemite .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/magnemite.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#magneton{
+  display: none;
+}
+#magneton .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/magneton.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#mankey{
+  display: none;
+}
+#mankey .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/mankey.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#marowak{
+  display: none;
+}
+#marowak .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/marowak.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#meowth{
+  display: none;
+}
+#meowth .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/meowth.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#metapod{
+  display: none;
+}
+#metapod .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/metapod.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#mew{
+  display: none;
+}
+#mew .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/mew.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#mewtwo{
+  display: none;
+}
+#mewtwo .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/mewtwo.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#moltres{
+  display: none;
+}
+#moltres .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/moltres.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#mr_mime{
+  display: none;
+}
+#mr_mime .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/mr_mime.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#muk{
+  display: none;
+}
+#muk .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/muk.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#nidoking{
+  display: none;
+}
+#nidoking .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/nidoking.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#nidoqueen{
+  display: none;
+}
+#nidoqueen .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/nidoqueen.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#nidoran{
+  display: none;
+}
+#nidoran .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/nidoran.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#nidorina{
+  display: none;
+}
+#nidorina .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/nidorina.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#nidorino{
+  display: none;
+}
+#nidorino .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/nidorino.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#ninetails{
+  display: none;
+}
+#ninetails .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/ninetails.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#oddish{
+  display: none;
+}
+#oddish .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/oddish.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#omanyte{
+  display: none;
+}
+#omanyte .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/omanyte.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#omastar{
+  display: none;
+}
+#omastar .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/omastar.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#onix{
+  display: none;
+}
+#onix .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/onix.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#paras{
+  display: none;
+}
+#paras .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/paras.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#parasect{
+  display: none;
+}
+#parasect .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/parasect.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#persian{
+  display: none;
+}
+#persian .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/persian.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#pidgeotto{
+  display: none;
+}
+#pidgeotto .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/pidgeotto.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#pidgey{
+  display: none;
+}
+#pidgey .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/pidgey.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#pikachu{
+  display: none;
+}
+#pikachu .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/pikachu.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#pinsir{
+  display: none;
+}
+#pinsir .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/pinsir.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#poliwag{
+  display: none;
+}
+#poliwag .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/poliwag.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#poliwhirl{
+  display: none;
+}
+#poliwhirl .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/poliwhirl.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#poliwrath{
+  display: none;
+}
+#poliwrath .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/poliwrath.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#ponyta{
+  display: none;
+}
+#ponyta .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/ponyta.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#porygon{
+  display: none;
+}
+#porygon .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/porygon.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#primeape{
+  display: none;
+}
+#primeape .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/primeape.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#psyduck{
+  display: none;
+}
+#psyduck .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/psyduck.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#raichu{
+  display: none;
+}
+#raichu .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/raichu.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#rapidash{
+  display: none;
+}
+#rapidash .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/rapidash.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#raticate{
+  display: none;
+}
+#raticate .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/raticate.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#rattata{
+  display: none;
+}
+#rattata .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/rattata.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#rhydon{
+  display: none;
+}
+#rhydon .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/rhydon.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#rhyhorn{
+  display: none;
+}
+#rhyhorn .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/rhyhorn.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#sandshrew{
+  display: none;
+}
+#sandshrew .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/sandshrew.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#sandslash{
+  display: none;
+}
+#sandslash .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/sandslash.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#scyther{
+  display: none;
+}
+#scyther .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/scyther.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#seadra{
+  display: none;
+}
+#seadra .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/seadra.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#seaking{
+  display: none;
+}
+#seaking .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/seaking.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#seel{
+  display: none;
+}
+#seel .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/seel.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#shellder{
+  display: none;
+}
+#shellder .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/shellder.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#slowbro{
+  display: none;
+}
+#slowbro .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/slowbro.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#slowpoke{
+  display: none;
+}
+#slowpoke .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/slowpoke.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#snorlax{
+  display: none;
+}
+#snorlax .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/snorlax.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#spearow{
+  display: none;
+}
+#spearow .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/spearow.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#squirtle{
+  display: none;
+}
+#squirtle .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/squirtle.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#starmie{
+  display: none;
+}
+#starmie .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/starmie.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#staryu{
+  display: none;
+}
+#staryu .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/staryu.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#tangela{
+  display: none;
+}
+#tangela .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/tangela.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#tauros{
+  display: none;
+}
+#tauros .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/tauros.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#tentacool{
+  display: none;
+}
+#tentacool .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/tentacool.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#tentacruel{
+  display: none;
+}
+#tentacruel .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/tentacruel.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#togepi{
+  display: none;
+}
+#togepi .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/togepi.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#vaporeon{
+  display: none;
+}
+#vaporeon .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/vaporeon.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#venomoth{
+  display: none;
+}
+#venomoth .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/venomoth.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#venonat{
+  display: none;
+}
+#venonat .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/venonat.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#venusaur{
+  display: none;
+}
+#venusaur .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/venusaur.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#victreebel{
+  display: none;
+}
+#victreebel .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/victreebel.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#vileplume{
+  display: none;
+}
+#vileplume .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/vileplume.png') no-repeat;				
+	padding: none; 								
+    
+} 
+
+#voltorb{
+  display: none;
+}
+#voltorb .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/voltorb.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#vulpix{
+  display: none;
+}
+#vulpix .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/vulpix.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#wartortle{
+  display: none;
+}
+#wartortle .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/wartortle.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#weedle{
+  display: none;
+}
+#weedle .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/weedle.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#weepinbell{
+  display: none;
+}
+#weepinbell .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/weepinbell.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#weezing{
+  display: none;
+}
+#weezing .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/weezing.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#wigglytuff{
+  display: none;
+}
+#wigglytuff .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/wigglytuff.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#zapdos{
+  display: none;
+}
+#zapdos .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/zapdos.png') no-repeat;				
+	padding: none; 								
+    
+}  
+
+#zubat{
+  display: none;
+}
+#zubat .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 336px;									
+	height:479px;									
+	right:10%;										
+	top:80%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('images/zubat.png') no-repeat;				
+	padding: none; 								
+    
+}  
